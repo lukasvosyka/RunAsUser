@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Runtime.ConstrainedExecution;
 using Microsoft.Win32.SafeHandles;
 
-namespace Lukster.RunAsUser.Helper
+namespace RunAsUser.Helper
 {
     /// <summary>
     /// Native win32 methods

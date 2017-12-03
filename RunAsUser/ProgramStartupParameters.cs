@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 using System.IO;
-using Lukster.RunAsUser.Helper;
-using Lukster.RunAsUser.Logging;
+using RunAsUser.Helper;
+using RunAsUser.Logging;
 
-namespace Lukster.RunAsUser
+namespace RunAsUser
 {
 	/// <summary>
 	/// Enum that indicates how to retrieve the user access token.

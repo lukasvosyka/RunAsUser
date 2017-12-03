@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lukster.RunAsUser", "Lukster.RunAsUser\Lukster.RunAsUser.csproj", "{7EEF4C2F-258B-4393-82D5-A9FD5B0A29CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunAsUser", "RunAsUser\RunAsUser.csproj", "{7EEF4C2F-258B-4393-82D5-A9FD5B0A29CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lukster.RunAsUser.TestService", "Lukster.RunAsUser.TestService\Lukster.RunAsUser.TestService.csproj", "{C14E5547-F060-4936-AD43-4EBA0D7481C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunAsUser.TestService", "RunAsUser.TestService\RunAsUser.TestService.csproj", "{C14E5547-F060-4936-AD43-4EBA0D7481C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

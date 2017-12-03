@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Lukster.RunAsUser
+namespace RunAsUser
 {
 	/// <summary>
 	/// This includes all exit codes returned by this application.

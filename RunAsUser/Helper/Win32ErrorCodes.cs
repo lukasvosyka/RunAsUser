@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Lukster.RunAsUser.Helper
+namespace RunAsUser.Helper
 {
     internal sealed class Win32ErrorCodes
     {

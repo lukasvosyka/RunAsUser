@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Lukster.RunAsUser
+namespace RunAsUser
 {
     /// <summary>
     /// Command parameter switches

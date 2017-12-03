@@ -8,7 +8,7 @@
     <ProjectGuid>{7EEF4C2F-258B-4393-82D5-A9FD5B0A29CE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Lukster.RunAsUser</RootNamespace>
+    <RootNamespace>RunAsUser</RootNamespace>
     <AssemblyName>ra</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -41,7 +41,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <UseVSHostingProcess>false</UseVSHostingProcess>
-    <DocumentationFile>bin\Debug\Lukster.RunAsUser.XML</DocumentationFile>
+    <DocumentationFile>bin\Debug\RunAsUser.XML</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -50,7 +50,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>bin\Release\Lukster.RunAsUser.XML</DocumentationFile>
+    <DocumentationFile>bin\Release\RunAsUser.XML</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

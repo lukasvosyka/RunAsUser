@@ -1,4 +1,4 @@
-﻿namespace Lukster.RunAsUser.TestService
+﻿namespace RunAsUser.TestService
 {
 	partial class Service1
 	{

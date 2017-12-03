@@ -5,7 +5,7 @@ using System.ComponentModel;
 using System.Configuration.Install;
 
 
-namespace Lukster.RunAsUser.TestService
+namespace RunAsUser.TestService
 {
 	[RunInstallerAttribute(true)]
 	public partial class Installer1 : Installer

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ServiceProcess;
 using System.Text;
 
-namespace Lukster.RunAsUser.TestService
+namespace RunAsUser.TestService
 {
 	static class Program
 	{

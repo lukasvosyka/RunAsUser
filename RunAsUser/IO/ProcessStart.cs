@@ -5,8 +5,8 @@ using System.Diagnostics;
 using System.Security;
 using System.Runtime.InteropServices;
 using System.Runtime.CompilerServices;
-using Lukster.RunAsUser.Logging;
-using Lukster.RunAsUser.Helper;
+using RunAsUser.Logging;
+using RunAsUser.Helper;
 using System.Timers;
 using System.Threading;
 using System.Security.Principal;
@@ -14,7 +14,7 @@ using System.Net;
 using Microsoft.Win32;
 using System.ComponentModel;
 
-namespace Lukster.RunAsUser.IO
+namespace RunAsUser.IO
 {
 	/// <summary>
 	/// This class encapulates the functionallity of execting a command under different user credentials.

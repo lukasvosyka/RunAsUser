@@ -5,7 +5,7 @@ using System.IO;
 using System.Diagnostics;
 using System.Security;
 
-namespace Lukster.RunAsUser.Logging
+namespace RunAsUser.Logging
 {
 	[Flags]
 	internal enum LogTarget

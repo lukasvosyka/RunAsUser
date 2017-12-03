@@ -4,14 +4,14 @@ using System.Text;
 using System.Diagnostics;
 using System.Security.Principal;
 using System.Runtime.InteropServices;
-using Lukster.RunAsUser.Logging;
+using RunAsUser.Logging;
 using System.Security;
 using System.IO;
-using Lukster.RunAsUser.IO;
-using Lukster.RunAsUser.Helper;
+using RunAsUser.IO;
+using RunAsUser.Helper;
 using System.ComponentModel;
 
-namespace Lukster.RunAsUser
+namespace RunAsUser
 {
     /// <summary>
     /// Entry class

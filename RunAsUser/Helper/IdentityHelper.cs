@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace Lukster.RunAsUser.Helper
+namespace RunAsUser.Helper
 {
 	/// <summary>
 	/// Enum that is used to specify what part of the identity name should be used or returned.

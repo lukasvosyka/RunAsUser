@@ -6,7 +6,7 @@ using System.Diagnostics;
 using System.ServiceProcess;
 using System.Text;
 
-namespace Lukster.RunAsUser.TestService
+namespace RunAsUser.TestService
 {
 	public partial class Service1 : ServiceBase
 	{
@@ -18,7 +18,7 @@ namespace Lukster.RunAsUser.TestService
 		protected override void OnStart(string[] args)
 		{
 			//Debugger.Break();
-			Lukster.RunAsUser.Program.Main(new string[] { 
+			RunAsUser.Program.Main(new string[] { 
 				//"/u",
 				//"TestUser",
 				//"/p",
